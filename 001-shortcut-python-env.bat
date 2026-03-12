@@ -15,7 +15,7 @@ rem set "PROJ_PATH=C:\Dev\my_project"
 
 rem Option B: Use the folder where this .bat file resides (recommended if this .bat sits inside the project)
 rem set "PROJ_PATH=%~dp0"
-set "PROJ_PATH=C:\Users\adnan\Documents\001-programming\001-python\006-kakak-math-marathon"
+set "PROJ_PATH=C:\Users\Documents\programming\math-marathon"
 set "PVENV=math_marathon_env"
 rem ====== END CONFIG ======
 
