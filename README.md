@@ -43,7 +43,7 @@ An interactive math quiz application designed for kids to practice and master ar
 ### Method 1: Automatic Setup (Windows)
 Run the provided batch file:
 ```bash
-setup_and_run.bat
+001-shortcut-python-env.bat
 ```
 
 ### Method 2: Manual Setup
